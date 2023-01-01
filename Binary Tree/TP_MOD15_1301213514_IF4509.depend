@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672594521 source:c:\users\lenovo\music\tp_mod15_1301213514_if4509\tree.cpp
+	"tree.h"
+
+1672594514 c:\users\lenovo\music\tp_mod15_1301213514_if4509\tree.h
+	<iostream>
+
+1672593906 source:c:\users\lenovo\music\tp_mod15_1301213514_if4509\main.cpp
+	"tree.h"
+
